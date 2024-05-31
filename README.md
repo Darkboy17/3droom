@@ -41,7 +41,7 @@ A 1000 square feet room placed randomly with rectangular objects.
     npm start
     ```
 
-2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the project.
+2. Open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to view the project.
 
 
 
